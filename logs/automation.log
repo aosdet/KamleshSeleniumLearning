@@ -1,0 +1,217 @@
+2026-04-05 14:44:58 INFO  Hooks - Browser Initialised: chrome
+2026-04-05 14:45:01 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-05 14:45:01 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-05 14:45:01 INFO  LoginPage - User Entered password :Password@123
+2026-04-05 14:45:03 INFO  LoginPage - User Clicks Login Button
+2026-04-05 14:45:06 INFO  Hooks - browser Exited
+2026-04-05 14:45:09 INFO  Hooks - Browser Initialised: chrome
+2026-04-05 14:45:11 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-05 14:45:11 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-05 14:45:11 INFO  LoginPage - User Entered password :Test@1234
+2026-04-05 14:45:12 INFO  LoginPage - User Clicks Login Button
+2026-04-05 14:45:13 INFO  Hooks - browser Exited
+2026-04-05 14:45:16 INFO  Hooks - Browser Initialised: chrome
+2026-04-05 14:45:17 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-05 14:45:18 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-05 14:45:18 INFO  LoginPage - User Entered password :Test@1234
+2026-04-05 14:45:18 INFO  LoginPage - User Clicks Login Button
+2026-04-05 14:45:20 INFO  Hooks - browser Exited
+2026-04-05 14:45:22 INFO  Hooks - Browser Initialised: chrome
+2026-04-05 14:45:24 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-05 14:45:24 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-05 14:45:25 INFO  LoginPage - User Entered password :Password@123
+2026-04-05 14:45:25 INFO  LoginPage - User Clicks Login Button
+2026-04-05 14:45:26 INFO  HomePage - user clicks logout button
+2026-04-05 14:45:28 INFO  Hooks - browser Exited
+2026-04-05 14:47:03 INFO  Hooks - Browser Initialised: chrome
+2026-04-05 14:47:05 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-05 14:47:06 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-05 14:47:06 INFO  LoginPage - User Entered password :Password@123
+2026-04-05 14:47:06 INFO  LoginPage - User Clicks Login Button
+2026-04-05 14:47:08 INFO  Hooks - browser Exited
+2026-04-05 14:47:11 INFO  Hooks - Browser Initialised: chrome
+2026-04-05 14:47:13 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-05 14:47:13 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-05 14:47:14 INFO  LoginPage - User Entered password :Test@1234
+2026-04-05 14:47:14 INFO  LoginPage - User Clicks Login Button
+2026-04-05 14:47:15 INFO  Hooks - browser Exited
+2026-04-05 14:47:17 INFO  Hooks - Browser Initialised: chrome
+2026-04-05 14:47:19 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-05 14:47:19 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-05 14:47:20 INFO  LoginPage - User Entered password :Test@1234
+2026-04-05 14:47:20 INFO  LoginPage - User Clicks Login Button
+2026-04-05 14:47:21 INFO  Hooks - browser Exited
+2026-04-05 14:47:24 INFO  Hooks - Browser Initialised: chrome
+2026-04-05 14:47:25 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-05 14:47:26 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-05 14:47:26 INFO  LoginPage - User Entered password :Password@123
+2026-04-05 14:47:26 INFO  LoginPage - User Clicks Login Button
+2026-04-05 14:47:27 INFO  HomePage - user clicks logout button
+2026-04-05 14:47:28 INFO  Hooks - browser Exited
+2026-04-06 10:37:47 INFO  Hooks - Browser Initialised: chrome
+2026-04-06 10:37:48 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-06 10:37:52 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-06 10:37:52 INFO  LoginPage - User Entered password :Password@123
+2026-04-06 10:37:53 INFO  LoginPage - User Clicks Login Button
+2026-04-06 10:55:22 INFO  Hooks - Browser Initialised: chrome
+2026-04-06 10:55:23 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-06 10:55:25 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-06 10:55:26 INFO  LoginPage - User Entered password :Password@123
+2026-04-06 10:55:26 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:20:15 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:20:16 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-07 10:20:17 INFO  LoginPage - User Entered password :Password@123
+2026-04-07 10:20:17 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:20:29 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:20:30 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-07 10:20:31 INFO  LoginPage - User Entered password :Password@123
+2026-04-07 10:20:31 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:20:38 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:20:40 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-07 10:20:41 INFO  LoginPage - User Entered password :Test@1234
+2026-04-07 10:20:41 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:20:49 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:20:50 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-07 10:20:50 INFO  LoginPage - User Entered password :Test@1234
+2026-04-07 10:20:51 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:21:00 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:21:02 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-07 10:21:03 INFO  LoginPage - User Entered password :Password@123
+2026-04-07 10:21:03 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:21:05 INFO  HomePage - user clicks logout button
+2026-04-07 10:27:00 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:27:03 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-07 10:27:03 INFO  LoginPage - User Entered password :Password@123
+2026-04-07 10:27:04 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:27:15 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:27:18 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-07 10:27:18 INFO  LoginPage - User Entered password :Password@1234
+2026-04-07 10:27:19 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:27:44 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:27:45 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-07 10:27:45 INFO  LoginPage - User Entered password :Test@1234
+2026-04-07 10:27:46 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:27:55 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:27:56 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-07 10:27:56 INFO  LoginPage - User Entered password :Test@1234
+2026-04-07 10:27:57 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:28:06 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:28:09 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-07 10:28:10 INFO  LoginPage - User Entered password :Password@1234
+2026-04-07 10:28:11 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:43:52 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:43:53 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-07 10:43:53 INFO  LoginPage - User Entered password :Password@1234
+2026-04-07 10:43:54 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:44:14 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:44:15 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-07 10:44:15 INFO  LoginPage - User Entered password :Test@1234
+2026-04-07 10:44:16 INFO  LoginPage - User Clicks Login Button
+2026-04-07 10:44:22 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-07 10:44:23 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-07 10:44:23 INFO  LoginPage - User Entered password :Test@1234
+2026-04-07 10:44:24 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:23:21 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:23:21 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:23:21 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:23:22 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:26:33 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:26:34 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:26:34 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:26:34 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:28:42 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:28:42 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:28:42 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:28:43 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:29:41 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:29:41 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:29:42 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:29:42 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:29:47 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:29:48 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:29:48 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:29:49 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:29:55 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:29:56 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-13 10:29:56 INFO  LoginPage - User Entered password :Test@1234
+2026-04-13 10:29:57 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:30:05 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:30:06 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-13 10:30:06 INFO  LoginPage - User Entered password :Test@1234
+2026-04-13 10:30:06 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:30:12 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:30:12 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:30:12 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:30:13 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:30:13 INFO  HomePage - user clicks logout button
+2026-04-13 10:31:18 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:31:18 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:31:19 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:31:19 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:31:25 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:31:26 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:31:27 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:31:27 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:34:58 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:34:59 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:34:59 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:34:59 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:35:06 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:35:07 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:35:07 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:35:07 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:35:13 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:35:13 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-13 10:35:13 INFO  LoginPage - User Entered password :Test@1234
+2026-04-13 10:35:13 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:35:17 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:35:19 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-13 10:35:19 INFO  LoginPage - User Entered password :Test@1234
+2026-04-13 10:35:19 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:35:24 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:35:24 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:35:24 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:35:25 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:35:25 INFO  HomePage - user clicks logout button
+2026-04-13 10:40:30 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:40:30 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:40:30 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:40:31 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:40:40 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:40:40 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:40:40 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:40:40 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:40:46 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:40:46 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-13 10:40:46 INFO  LoginPage - User Entered password :Test@1234
+2026-04-13 10:40:47 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:40:50 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:40:52 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-13 10:40:52 INFO  LoginPage - User Entered password :Test@1234
+2026-04-13 10:40:52 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:40:57 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 10:40:58 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 10:40:58 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 10:40:58 INFO  LoginPage - User Clicks Login Button
+2026-04-13 10:41:00 INFO  HomePage - user clicks logout button
+2026-04-13 12:54:27 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 12:54:27 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 12:54:27 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 12:54:27 INFO  LoginPage - User Clicks Login Button
+2026-04-13 12:54:34 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 12:54:34 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 12:54:34 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 12:54:34 INFO  LoginPage - User Clicks Login Button
+2026-04-13 12:54:44 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 12:54:44 INFO  LoginPage - User Entered email :anu@gmail.com
+2026-04-13 12:54:44 INFO  LoginPage - User Entered password :Test@1234
+2026-04-13 12:54:44 INFO  LoginPage - User Clicks Login Button
+2026-04-13 12:54:47 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 12:54:47 INFO  LoginPage - User Entered email :kamlesh@gmail.com
+2026-04-13 12:54:47 INFO  LoginPage - User Entered password :Test@1234
+2026-04-13 12:54:47 INFO  LoginPage - User Clicks Login Button
+2026-04-13 12:54:53 INFO  LoginSteps - user naviagting to the BaseURL https://rahulshettyacademy.com/client/#/auth/login
+2026-04-13 12:54:53 INFO  LoginPage - User Entered email :tr90wq@eample.com
+2026-04-13 12:54:53 INFO  LoginPage - User Entered password :Password@123
+2026-04-13 12:54:54 INFO  LoginPage - User Clicks Login Button
+2026-04-13 12:54:55 INFO  HomePage - user clicks logout button
