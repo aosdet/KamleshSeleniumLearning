@@ -8,6 +8,14 @@ package runner;
 
 // Team Member updated TestRunner
 
+// git init --> to intiliase GIT into our Project
+// git status --> to Track uncommitted Files or Modified Files
+// git add -A ---> to add all the files before commit
+// git commit -m "Message" ---> commit the code
+// git push origin KamleshBranch
+
+
+
 import io.cucumber.junit.Cucumber;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
