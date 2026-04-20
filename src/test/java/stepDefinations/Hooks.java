@@ -46,18 +46,18 @@ public class Hooks {
 
     }
 
-    @AfterStep
-    public void takesScreenshotofEachStep(Scenario scenario) throws IOException {
-
-        File src = ((TakesScreenshot) DriverManager.getDriver())
-                .getScreenshotAs(OutputType.FILE);
-
-        String fileName = "image_" + System.currentTimeMillis() + ".png";
-
-        File dest = new File(System.getProperty("user.dir") + "//screesnhots//"+ fileName);
-
-        FileHandler.copy(src, dest);
-    }
+//    @AfterStep
+//    public void takesScreenshotofEachStep(Scenario scenario) throws IOException {
+//
+//        File src = ((TakesScreenshot) DriverManager.getDriver())
+//                .getScreenshotAs(OutputType.FILE);
+//
+//        String fileName = "image_" + System.currentTimeMillis() + ".png";
+//
+//        File dest = new File(System.getProperty("user.dir") + "//screesnhots//"+ fileName);
+//
+//        FileHandler.copy(src, dest);
+//    }
 
 
     @After
