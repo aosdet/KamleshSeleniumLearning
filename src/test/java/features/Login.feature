@@ -11,7 +11,7 @@ Feature: Login Feature
 
   @Validlogin @login @regression
   Scenario: Login Test with Valid Credentials
-    When user enters email "tr90wq@eample.com" and password "Password@123"
+    When user enters email "tr90wq@eample.com" and password "Password@1234"
     And user clicks on login Button
     Then user should be redirecting to the dashbaord page
 
