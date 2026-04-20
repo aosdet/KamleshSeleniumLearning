@@ -4,16 +4,24 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.MediaEntityBuilder;
 import core.ConfigManager;
+import core.DriverFactory;
 import core.DriverManager;
 import core.ExtentManager;
 import io.cucumber.java.After;
+import io.cucumber.java.AfterStep;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.core.util.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.io.FileHandler;
+
+import java.io.File;
+import java.io.IOException;
+import java.sql.Driver;
 
 public class Hooks {
 
@@ -29,15 +37,31 @@ public class Hooks {
     public static ExtentTest test;
 
     //Hooks
+    // it run before each Scenario
     @Before
-    public void setup(Scenario scenario){
+    public void setup(Scenario scenario) {
 
-        test=extent.createTest(scenario.getName());
-        DriverManager.initialiseBrowser(ConfigManager.get("browser"));
+        test = extent.createTest(scenario.getName());
+        DriverFactory.initDriver(ConfigManager.get("browser"));
 
     }
 
+    @AfterStep
+    public void takesScreenshotofEachStep(Scenario scenario) throws IOException {
+
+        File src = ((TakesScreenshot) DriverManager.getDriver())
+                .getScreenshotAs(OutputType.FILE);
+
+        String fileName = "image_" + System.currentTimeMillis() + ".png";
+
+        File dest = new File(System.getProperty("user.dir") + "//screesnhots//"+ fileName);
+
+        FileHandler.copy(src, dest);
+    }
+
+
     @After
+    // it run after each scenaraio
     public void teardown(Scenario scenario) {
 
         WebDriver driver = DriverManager.getDriver();

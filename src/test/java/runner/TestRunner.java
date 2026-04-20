@@ -14,12 +14,11 @@ package runner;
 // git commit -m "Message" ---> commit the code
 // git push origin KamleshBranch
 
-
-
 import io.cucumber.junit.Cucumber;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 import org.junit.runner.RunWith;
+import org.testng.annotations.DataProvider;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
@@ -30,20 +29,32 @@ import org.junit.runner.RunWith;
                 "html:target/cucumber-reports.html"
         },
         dryRun = false,                            // true = check steps, false = run tests
-        tags = "@regression"                            // run specific tagged scenarios
+        tags = "@Validlogin"                            // run specific tagged scenarios
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
+
+
+        @Override
+        @DataProvider(parallel = true)
+        public Object[][] scenarios() {
+                return super.scenarios();
+        }
 
 }
 
 // 10 sessions- 500 , 5000/-
 //Extent Reports Done
 // Maven Integration Done
-// Git and Github
-// Parallel execution
-// Cross browser Testing
+// Git and Github- Done
+
+
+// Cross browser Testing-- using property File--Done
+// Parallel execution  Done
+// Cross browser Testing --using Maven  -- Kamlesh will try
 //Jenkins Pipeline CI/CD
-//Headless Execution
+//Headless Execution  --Done
+// How to Find Broken Link on any webpage? Done
+// How to take screenshot of all the Steps?   Done
 
 
 // Maven --->pom.xml --->testng.xml --->TestRunner-->@Login
